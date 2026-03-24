@@ -96,7 +96,7 @@ This dashboard enables stakeholders to quickly identify underperforming customer
 
 * 📁 Dataset: [Download Datasets](Datasets)
 * 📊 Power BI Dashboard: [View Dashboard](Supply_Chain_Analysis.pbix)
-* 🗄️ SQL Queries: [Add your SQL file link here](Supply_Chain_SQL_Queries.sql)
+* 🗄️ SQL Queries: [View SQL File](Supply_Chain_SQL_Queries.sql)
 * 📽️ Presentation (PPT): [View Project Presentation](Supply_chain_Analysis_Insights.pptx)
 
 ---
