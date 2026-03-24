@@ -94,7 +94,7 @@ This dashboard enables stakeholders to quickly identify underperforming customer
 
 ## 🔗 Project Links
 
-* 📁 Dataset: [Add your dataset link here]
+* 📁 Dataset: [Download Datasets](Datasets)
 * 📊 Power BI Dashboard: [Add your Power BI link here]
 * 🗄️ SQL Queries: [Add your SQL file link here]
 * 📽️ Presentation (PPT): [View Project Presentation]
